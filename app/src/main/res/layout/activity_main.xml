@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/GoToFirstJni"
+            style="@android:style/Widget.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:background="#9b2f7999"
+            android:text="@string/strMain_001"
+            android:textAllCaps="false"
+            android:textColor="#ed7ff707"
+            android:textSize="15sp"/>
+
+
+        <Button
+            android:id="@+id/GoToOpenglesVerySimple"
+            style="@android:style/Widget.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:background="#9b2f7999"
+            android:text="@string/strMain_002"
+            android:textAllCaps="false"
+            android:textColor="#ed7ff707"
+            android:textSize="15sp"/>
+
+
+        <Button
+            android:id="@+id/GoToProAndroidGameChap4_Asteroid"
+            style="@android:style/Widget.Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:background="#9b2f7999"
+            android:text="@string/strMain_003"
+            android:textAllCaps="false"
+            android:textColor="#ed7ff707"
+            android:textSize="15sp"/>
+
+    </LinearLayout>
+
+</ScrollView>
+
+
+

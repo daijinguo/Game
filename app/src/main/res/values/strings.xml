@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">game</string>
+
+    <string name="strMain_001">Go to the first jni demo</string>
+    <string name="strMain_002">A very simple opengles demo</string>
+    <string name="strMain_003">Pro Android Game Chap4 Asteroid</string>
+</resources>
